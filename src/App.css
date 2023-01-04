@@ -3,6 +3,7 @@
 ::after {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 .container {
@@ -15,4 +16,9 @@
 
 .green {
   color: green;
+}
+
+a {
+  text-decoration: none;
+  color: white;
 }
