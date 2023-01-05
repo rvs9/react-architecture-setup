@@ -1,8 +1,6 @@
-import "./Header.css";
-
-import React from "react";
 import { Link, useLocation } from "react-router-dom";
 import classNames from "classnames";
+import "./Header.css";
 
 const links = [
   {
